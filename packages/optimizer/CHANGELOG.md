@@ -1,5 +1,11 @@
 # @qwik.dev/optimizer
 
+## 2.1.0-rc.10
+
+### Patch Changes
+
+- 🐞🩹 child computeds and tasks now update when a prop expression reads render-local values (by [@rapporian](https://github.com/rapporian) in [#9218](https://github.com/QwikDev/qwik/pull/9218))
+
 ## 2.1.0-beta.9
 
 ### Patch Changes
